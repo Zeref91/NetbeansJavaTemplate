@@ -25,6 +25,8 @@ public class App {
     
     public void lanzarAplicacion(){
         
+        System.out.println("Hola Mundo");
+        
     }
     
 }
